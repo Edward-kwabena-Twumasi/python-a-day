@@ -25,6 +25,6 @@ View the file system information and tree of a valid file path
 #### download_fiie.py
 
 ```
-Use dictiionary comprehension and 'zip' function to easily construct 
+Use dictionary comprehension and 'zip' function to easily construct 
 a dictionary that can be converted to a pandas DataFrame
 ```
