@@ -10,7 +10,12 @@
 -- file_sys_info.py
 -- zip_func_usage.py
 ```
+#### file_sys_info.py 
 
+```
+(04/11/23)
+View the file system information and tree of a valid file path
+```
 #### download_fiie.py
 
 ```
@@ -18,9 +23,7 @@ Download a file from a provided url into a specified path.
 eg. Download an online dataset hosted on google storage for ML task
 ```
 
-#### file_sys_info.py
 
-View the file system information and tree of a valid file path
 
 #### download_fiie.py
 
